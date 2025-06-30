@@ -7,9 +7,9 @@ services:
     ports:
       - "5432:5432"
     environment:
-      POSTGRES_USER: hiral
-      POSTGRES_PASSWORD: 123
-      POSTGRES_DB: job_scrape
+      POSTGRES_USER: 
+      POSTGRES_PASSWORD: 
+      POSTGRES_DB: 
     volumes:
       - pgvector-data:/var/lib/postgresql/data
 
