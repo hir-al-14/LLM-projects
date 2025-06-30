@@ -1,3 +1,4 @@
+# Gets the resumes text from the csv, combines all the text, forms its embedding using Ollama, and then stores it in the database.
 import pandas as pd
 import psycopg2
 from pgvector.psycopg2 import register_vector

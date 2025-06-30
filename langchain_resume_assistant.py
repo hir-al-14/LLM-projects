@@ -1,3 +1,4 @@
+# takes input query, makes a retriever of the embedding data from the database, combines the llama3 llm and retriever to forma a RetrievalQA chain to answer the query.
 from langchain_community.vectorstores import PGVector
 from langchain_ollama import OllamaEmbeddings
 from langchain.chains import RetrievalQA

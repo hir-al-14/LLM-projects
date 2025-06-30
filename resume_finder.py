@@ -1,3 +1,4 @@
+# Takes in the resume pdfs and seperates its sections using regular expression and makes a csv where each row consists of the data of a particular resume.
 import requests
 from bs4 import BeautifulSoup
 import os
