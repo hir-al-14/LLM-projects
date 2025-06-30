@@ -1,0 +1,410 @@
+name,education,experience,skills,projects,source_file
+HIRAL ARORA,"University of California – Davis, B.S. in Computer Science and Engineering (Freshman) | 2028 | unweighted GPA: 3.831
+Completed Grade XII (CBSE) – Somerville School Noida, UP, India | Year of completion: 2024 | unweighted GPA: 3.68 (92%)
+Coursework: Computer Science, Mathematics, Physics, Chemistry, English
+Completed Grade X (CBSE) – Somerville School Noida, UP, India | Year of completion: 2022 | unweighted GPA: 3.84 (96%)
+RESEARCH WORK
+• Wrote a research paper titled “An Exploratory Ukraine Rising Commodities Price Analysis: Towards a Resilient Food System”, which was accepted
+in the 22nd United Kingdom Workshop on Computational Intelligence conference held at Aston University, UK, and published in the conference
+proceedings, Advances in Computational Intelligence Systems, Springer. Received the Young Researcher Award in the conference.(Sep 2023)","• Founder – Hiraethereal Tech: Leading a start-up venture that offers computational solutions for societal issues with its first project (https://do-
+gooding.in/) focused on building a mediating platform between donors and NGOs, facilitating the donation of stationary, clothes, and consumables
+(Jun 2023-Present)
+• Director of Technology – Project Neurova: Overseeing the Technology department, supervising website construction and management, and
+collaborating with the Marketing Team to manage social accounts (Jun 2023-Present)
+• Team Head – Girls Who Code (New York): Headed my group in the sisterhood activities, where a group of 15 participants connected to brainstorm
+ideas for the development of a variety of interactive games and debugging codes (Jul 2023-Aug 2023)
+• Mentor – Technovation Girls: Helped new teams in selecting the right coding platform for app development, assisted in debugging codes, and
+preparing a pitch for the app (Apr 2023-Present)
+• LIDAR Beginer Intern, Sai Infotech Systems Ltd. (SISL), Noida, India – worked under mentors on LIDAR projects, learned about LIDAR (Light
+Detection and Ranging) fundamentals and its geographical information system applications developed by SISL, worked on SISL projects’ social
+media posts, maintained LinkedIn account, and engaged in client interaction activities (Sep 2022-Nov 2023)
+• Website design, Technology, and Entrepreneurship Ladder, a startup by UC Berkley Alumni – built a website for a T&E non-profit
+organization, conducted educational webinars as part of a technology culture spread initiative for Kenya middle school students (Jun 2023)
+• Posting code blogs for budding programmers on hiralarora.com to guide novice programmers through various coding platforms such as Python,
+scratch, P5.js, and Replit (Sep 2021-Present)
+CLUBS-
+• #Include – Davis (Jan 2025 – Present)
+• Google Developers Student Club – EXPLORE COHORT (Oct 2024 – Present)
+• AI student Collective – Beginner Projects. (Sep 2024 – Nov 2024)
+Developed a machine learning model to predict the risk of diabetes in patients based on key health indicators
+• Vice President – School Computer Science Club, “Void”: organized Inter school Computer Fest “Incognito-2023” (Apr 2022- Dec 2023)
+Responsibilities: Fest theme planning, Incognito events and award ceremony management; planning and organization – Senior Programming
+Competition and Webbed – Web Application Development competition",Activities With Gwc; Advisory Sessions; Algorithm Design(June 2024); And Peer Learning (Jul 2023-Aug 2023); And Received Gwc Merchandise For Active; And Tech Spotlight Activities; C++(Intermediate); Clarity Of Code; Compiling In Gcc; Css(Beginer); Duke University-Coursera – Learned Debugging In Gdc; Foreign Exchange And Study Program; Girls Who Code (Gwc); Git; Html(Beginner); In C; Javascript(Beginner); Learnt Unix Commands; Morgan Stanley 2 International – Learned Professional Practices And Stem Career Skills During Partner Engagement; New York – Learned Game Development In P5.Js And Code In Replit; Participated In; Participation; Partner Activity; Programming; Python(Intermediate); React Js(Beginner); Received Morgan Stanley Merchandise As A Reward For Confident And Clear Elevator Pitch Presentation (Aug 2023); Rstudio; Sisterhood Activities; Stem Career Sessions; • C(Intermediate); • Data Analysis – Worked With Machine Learning Models And Artificial Neural Networks.; • Summer Immersion Program; • “C Programming Specialization”,"• SKILL SCALAR
+Jan 2025 – Mar 2025
+Developed a web application that matches resumes with job listings scraped from platforms like LinkedIn, Indeed, Google, and ZipRecruiter.
+Provided course recommendations to bridge skill gaps based on resume analysis.
+Integrated computer vision to suggest interview outfits.
+Led a team of five peers and won Best Technical Project at the Mid-Year Project Showcase.
+Built using React.js, FastAPI, and GitHub.
+• Diabetes Risk Prediction
+Sep 2024 – Nov 2024
+Developed a machine learning model to predict the risk of diabetes in patients based on key health indicators, such as blood pressure, insulin levels,
+and BMI. Analyzed the dataset to derive insights and applied various machine learning algorithms, including Random Forest, Logistic Regression, and
+Support Vector Machines (SVM), to evaluate accuracy and model performance. Designed and implemented a user-friendly front-end interface
+allowing patients to input their data and receive a risk assessment based on the model's predictions.
+• DO-GOODING – Web Application for Donation Coordination
+Jun 2023 – Oct 2023
+Developed a web application that connects donors and recipients, enabling seamless interaction and donation of items such as stationery, clothing, and
+consumables. Incorporated features like distance-based filtering to match donors with nearby recipients. Led front-end development using ReactJS,
+creating a user-friendly interface. The platform currently supports 4 NGOs and over 200 active donors.",Hiral Arora Resume.pdf
+Jake Ryan,"Southwestern University Georgetown, TX
+Bachelor of Arts in Computer Science, Minor in Business Aug. 2018 – May 2021
+Blinn College Bryan, TX
+Associate’s in Liberal Arts Aug. 2014 – May 2018","Undergraduate Research Assistant June 2020 – Present
+Texas A&M University College Station, TX
+• Developed a REST API using FastAPI and PostgreSQL to store data from learning management systems
+• Developed a full-stack web application using Flask, React, PostgreSQL and Docker to analyze GitHub data
+• Explored ways to visualize GitHub collaboration in a classroom setting
+Information Technology Support Specialist Sep. 2018 – Present
+Southwestern University Georgetown, TX
+• Communicate with managers to set up campus computers used on campus
+• Assess and troubleshoot computer problems brought by students, faculty and staff
+• Maintain upkeep of computers, classroom equipment, and 200 printers across campus
+Artificial Intelligence Research Assistant May 2019 – July 2019
+Southwestern University Georgetown, TX
+• Explored methods to generate video game dungeons based off of The Legend of Zelda
+• Developed a game in Java to test the generated dungeons
+• Contributed 50K+ lines of code to an established codebase via Git
+• Conducted a human subject study to determine which video game dungeon generation technique is enjoyable
+• Wrote an 8-page paper and gave multiple presentations on-campus
+• Presented virtually to the World Conference on Computational Intelligence",C/C++; Developer Tools: Git; Docker; Eclipse; Fastapi; Flask; Frameworks: React; Google Cloud Platform; Html/Css; Intellij; Javascript; Junit; Languages: Java; Libraries: Pandas; Material-Ui; Matplotlib; Node.Js; Numpy; Pycharm; Python; R; Sql (Postgres); Travisci; Visual Studio; Vs Code; Wordpress,"Gitlytics | Python, Flask, React, PostgreSQL, Docker June 2020 – Present
+• Developed a full-stack web application using with Flask serving a REST API with React as the frontend
+• Implemented GitHub OAuth to get data from user’s repositories
+• Visualized GitHub data to show collaboration
+• Used Celery and Redis for asynchronous tasks
+Simple Paintball | Spigot API, Java, Maven, TravisCI, Git May 2018 – May 2020
+• Developed a Minecraft server plugin to entertain kids during free time for a previous job
+• Published plugin to websites gaining 2K+ downloads and an average 4.5/5-star review
+• Implemented continuous delivery using TravisCI to build the plugin upon new a release
+• Collaborated with Minecraft server administrators to suggest features and get feedback about the plugin",jakes-resume.pdf
+Allison Hernandez MD,"PQR Technical University - B.Tech in Computer Science | 2025
+CGPA: 9.35/10
+Taylor and Sons High School - CBSE (Class XII), 2022 - 89%","- Internship at Holden LLC (Aug 2023 - Sep 2023)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Hodge-Hicks (Oct 2021 - Nov 2021)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.
+- Internship at Brown PLC (Jun 2023 - Sep 2023)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.",Allison Hernandez Md; Django (2 Years); Fastapi (2 Years); Flask (2 Years); Node.Js (2 Years); React (2 Years),"- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.",resume_1.pdf
+Jennifer Garcia,"XYZ Institute of Technology - B.Tech in Computer Science | 2024
+CGPA: 7.86/10
+Smith, Reyes and Noble High School - CBSE (Class XII), 2021 - 88%","- Internship at Combs-Cook (Jan 2022 - Sep 2022)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at George, Patel and Carney (Feb 2024 - Jul 2024)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.
+- Internship at Mcintosh Group (Aug 2024 - Nov 2024)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.",Flask (1 Years); Html (4 Years); Javascript (2 Years); Jennifer Garcia; Node.Js (4 Years); React (2 Years),"- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.
+- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.",resume_10.pdf
+Amanda Patel,"PQR Technical University - B.Tech in Computer Science | 2026
+CGPA: 7.23/10
+Davis-Miller High School - CBSE (Class XII), 2023 - 92%","- Internship at Howard Ltd (Jan 2023 - Sep 2023)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Nguyen-Miller (Jun 2022 - Nov 2022)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.
+- Internship at Johnson, Rodriguez and Manning (Oct 2022 - Sep 2022)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.",Flask (3 Years); Html (3 Years); Javascript (1 Years); React (4 Years); Sql (1 Years),"- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.
+- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.",resume_11.pdf
+Linda Davis,"ABC University - B.Tech in Computer Science | 2023
+CGPA: 8.04/10
+Mcdowell, Kemp and Jackson High School - CBSE (Class XII), 2020 - 91%","- Internship at Strong and Sons (Oct 2021 - Jul 2021)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.
+- Internship at Gonzalez Ltd (Feb 2024 - Sep 2024)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.
+- Internship at Hart-Stafford (Oct 2022 - Jul 2022)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.",Css (3 Years); Fastapi (2 Years); Flask (4 Years); Javascript (3 Years); Linda Davis; React (1 Years),"- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.
+- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.",resume_12.pdf
+Judith Richard,"XYZ Institute of Technology - B.Tech in Computer Science | 2024
+CGPA: 8.06/10
+Beck, Giles and Bryant High School - CBSE (Class XII), 2021 - 91%","- Internship at Coleman, Hamilton and Evans (Aug 2022 - Jul 2022)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.
+- Internship at Sanchez Inc (Aug 2021 - Nov 2021)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Martin-Phillips (Aug 2022 - Jul 2022)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.",Css (2 Years); Django (2 Years); Fastapi (4 Years); Html (1 Years); React (3 Years),"- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.
+- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.
+- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.",resume_13.pdf
+Erika Serrano,"LMN College of Engineering - B.Tech in Computer Science | 2024
+CGPA: 7.62/10
+Cox Group High School - CBSE (Class XII), 2021 - 86%","- Internship at Charles, Wilson and Rodgers (Jun 2021 - Sep 2021)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.
+- Internship at Morales Ltd (Jan 2021 - Sep 2021)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.
+- Internship at Hall, Davies and Williams (Jun 2022 - Sep 2022)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.",Css (1 Years); Django (3 Years); Flask (4 Years); Javascript (1 Years); Python (1 Years),"- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.
+- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.",resume_14.pdf
+Brandon Smith,"XYZ Institute of Technology - B.Tech in Computer Science | 2026
+CGPA: 8.79/10
+Rios, Perez and Alexander High School - CBSE (Class XII), 2023 - 86%","- Internship at Chen LLC (Jun 2021 - Jul 2021)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.
+- Internship at Butler-Thornton (Aug 2021 - Jul 2021)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Bryant and Sons (Oct 2021 - Jul 2021)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.",Django (3 Years); Fastapi (1 Years); Flask (2 Years); Python (3 Years); Sql (2 Years),"- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.
+- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.",resume_15.pdf
+Peter Jones,"JKL Institute of Science - B.Tech in Computer Science | 2024
+CGPA: 8.09/10
+James, Daugherty and Howell High School - CBSE (Class XII), 2021 - 90%","- Internship at Valencia, Martin and Moss (Feb 2022 - Mar 2022)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.
+- Internship at Hamilton, White and Mckinney (Aug 2022 - Mar 2022)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.
+- Internship at Thomas-Pittman (Aug 2022 - Sep 2022)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.",Css (1 Years); Django (3 Years); Flask (4 Years); Peter Jones; React (4 Years); Sql (3 Years),"- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.
+- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.
+- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.",resume_16.pdf
+Andrea Burns,"JKL Institute of Science - B.Tech in Computer Science | 2024
+CGPA: 9.16/10
+Jennings and Sons High School - CBSE (Class XII), 2021 - 95%","- Internship at Cannon, Garcia and Rodriguez (Jan 2024 - Sep 2024)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.
+- Internship at Ward-Parsons (Aug 2023 - Mar 2023)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Price-Li (Aug 2022 - Sep 2022)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.",Andrea Burns; Flask (2 Years); Javascript (3 Years); Node.Js (1 Years); Python (1 Years); React (3 Years),"- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.",resume_17.pdf
+Hailey Jones,"LMN College of Engineering - B.Tech in Computer Science | 2025
+CGPA: 8.42/10
+Trevino-Johnson High School - CBSE (Class XII), 2022 - 86%","- Internship at Johnson-Harris (Jun 2023 - Jul 2023)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Lewis-Garza (Aug 2022 - Mar 2022)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.
+- Internship at Pollard, Gamble and Roth (Jan 2022 - Mar 2022)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.",Css (1 Years); Fastapi (2 Years); Flask (3 Years); Python (3 Years); React (4 Years),"- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.
+- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.",resume_18.pdf
+Tracey Arnold,"LMN College of Engineering - B.Tech in Computer Science | 2026
+CGPA: 8.02/10
+Shelton, Griffin and Garcia High School - CBSE (Class XII), 2023 - 96%","- Internship at Sweeney, Cruz and Simmons (Feb 2022 - Sep 2022)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.
+- Internship at Kim-Cruz (May 2022 - Nov 2022)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.
+- Internship at Harris-Peters (Oct 2023 - Mar 2023)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.",Fastapi (4 Years); Html (4 Years); Node.Js (2 Years); Python (3 Years); Sql (3 Years),"- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.
+- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.",resume_19.pdf
+Jerome Clark,"PQR Technical University - B.Tech in Computer Science | 2026
+CGPA: 8.47/10
+Esparza, Guzman and Diaz High School - CBSE (Class XII), 2023 - 94%","- Internship at Brock, Powell and Rodgers (Oct 2024 - Jul 2024)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.
+- Internship at Adkins-Cordova (Oct 2022 - Mar 2022)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.
+- Internship at Martin-Juarez (May 2023 - Jul 2023)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.",Django (1 Years); Flask (2 Years); Html (3 Years); Javascript (3 Years); React (1 Years),"- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.
+- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.",resume_2.pdf
+Gail Martin,"JKL Institute of Science - B.Tech in Computer Science | 2025
+CGPA: 7.01/10
+Hughes-Hogan High School - CBSE (Class XII), 2022 - 90%","- Internship at Forbes-Robinson (Feb 2023 - Sep 2023)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.
+- Internship at Mitchell-Larson (Jun 2024 - Sep 2024)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Brewer, Williams and Smith (Jun 2022 - Mar 2022)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.",Django (2 Years); Fastapi (2 Years); Flask (4 Years); Gail Martin; Python (2 Years); React (3 Years),"- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.",resume_20.pdf
+Lauren Ramirez,"JKL Institute of Science - B.Tech in Computer Science | 2025
+CGPA: 7.78/10
+Hubbard Group High School - CBSE (Class XII), 2022 - 97%","- Internship at Smith-James (Aug 2024 - Mar 2024)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.
+- Internship at Reeves, Miller and Moore (May 2024 - Nov 2024)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Garcia Ltd (May 2024 - Mar 2024)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.",Css (1 Years); Fastapi (2 Years); Javascript (4 Years); Lauren Ramirez; Python (3 Years); Sql (2 Years),"- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.",resume_3.pdf
+Jennifer Wilson,"PQR Technical University - B.Tech in Computer Science | 2023
+CGPA: 9.78/10
+Davis LLC High School - CBSE (Class XII), 2020 - 94%","- Internship at Rodgers-Morris (Oct 2022 - Nov 2022)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.
+- Internship at Ruiz-Bernard (Jan 2024 - Sep 2024)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Miller-Morgan (Jan 2024 - Nov 2024)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.",Css (2 Years); Fastapi (3 Years); Html (1 Years); Javascript (3 Years); React (3 Years),"- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.",resume_4.pdf
+Elizabeth Drake,"XYZ Institute of Technology - B.Tech in Computer Science | 2025
+CGPA: 9.43/10
+Myers-Chan High School - CBSE (Class XII), 2022 - 92%","- Internship at Harding, Peterson and Cross (Jan 2024 - Jul 2024)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.
+- Internship at Hayes, Ramirez and Payne (Oct 2024 - Jul 2024)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.
+- Internship at Franco Group (Jun 2022 - Jul 2022)
+Worked on integrating third-party APIs into a Node.js-based backend, including payment and geolocation
+services. Implemented unit tests using Jest.",Fastapi (1 Years); Flask (4 Years); Html (1 Years); Node.Js (2 Years); Python (1 Years),"- Created a responsive donation platform using Django and Leaflet.js that connects NGOs with donors.
+Integrated geolocation filters, email notifications, and a visual dashboard.
+- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.",resume_5.pdf
+Kenneth Davis,"JKL Institute of Science - B.Tech in Computer Science | 2023
+CGPA: 9.56/10
+Webb, Rodriguez and Garcia High School - CBSE (Class XII), 2020 - 91%","- Internship at Armstrong Ltd (Aug 2023 - Mar 2023)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.
+- Internship at Garrett and Sons (Jan 2022 - Mar 2022)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.
+- Internship at Roman, Dunn and Hernandez (Jun 2023 - Mar 2023)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.",Fastapi (1 Years); Html (4 Years); Javascript (2 Years); Kenneth Davis; Python (3 Years); React (1 Years),"- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.",resume_6.pdf
+Tracey Anderson,"JKL Institute of Science - B.Tech in Computer Science | 2024
+CGPA: 8.47/10
+Spence, Bowman and Davis High School - CBSE (Class XII), 2021 - 94%","- Internship at Clark-Ward (Oct 2023 - Jul 2023)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at White, Jones and Hill (May 2023 - Nov 2023)
+Worked on internal tooling with the backend team using Django REST Framework. Implemented data
+validation pipelines and optimized API response times by 30%.
+- Internship at Burgess Ltd (May 2024 - Sep 2024)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.",Fastapi (3 Years); Flask (2 Years); Node.Js (2 Years); Python (3 Years); React (3 Years); Tracey Anderson,"- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.
+- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.
+- Built a personal finance tracker using React, FastAPI, and SQLite. Enabled user login, expense
+categorization, and interactive charts using Chart.js.",resume_7.pdf
+Lindsey Hayden,"JKL Institute of Science - B.Tech in Computer Science | 2025
+CGPA: 9.14/10
+Bowman, Giles and Mills High School - CBSE (Class XII), 2022 - 96%","- Internship at Mcclain-Horton (Oct 2024 - Jul 2024)
+Designed and developed dynamic report generation features in a FastAPI backend. Integrated it with a
+PostgreSQL database and improved test coverage.
+- Internship at Riley LLC (May 2022 - Jul 2022)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.
+- Internship at Meyer, Turner and Herman (Oct 2023 - Sep 2023)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.",Css (1 Years); Flask (4 Years); Javascript (1 Years); Lindsey Hayden; Python (4 Years); React (2 Years),"- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.
+- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.",resume_8.pdf
+Michael Roy,"PQR Technical University - B.Tech in Computer Science | 2026
+CGPA: 7.52/10
+Butler and Sons High School - CBSE (Class XII), 2023 - 97%","- Internship at Washington, Maldonado and Reed (Feb 2024 - Jul 2024)
+Assisted in frontend development of a client portal using React and Redux. Contributed to reusable
+component design and bug fixes during sprints.
+- Internship at Rose, Lewis and Griffith (Oct 2022 - Sep 2022)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.
+- Internship at Rose-Watkins (Aug 2023 - Jul 2023)
+Automated data entry workflows using Python and Pandas, saving 10+ hours of manual effort per week.
+Created documentation and demo videos for end users.",Django (4 Years); Fastapi (2 Years); Javascript (2 Years); Michael Roy; React (3 Years); Sql (4 Years),"- Developed an end-to-end Resume Parsing tool that extracts structured information from PDF files using
+Python and spaCy. Designed a matching algorithm to compare resume content with job descriptions and
+recommend fit scores.
+- Built a weather forecasting app using Flask and OpenWeatherMap API. Deployed on Heroku and used
+Bootstrap for UI.
+- Implemented a real-time chat application using Node.js and Socket.IO with MongoDB persistence and
+authentication via JWT.",resume_9.pdf
