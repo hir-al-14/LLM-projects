@@ -9,7 +9,7 @@ services:
     environment:
       POSTGRES_USER: 
       POSTGRES_PASSWORD: 
-      POSTGRES_DB: job_scrape
+      POSTGRES_DB: 
     volumes:
       - pgvector-data:/var/lib/postgresql/data
 
