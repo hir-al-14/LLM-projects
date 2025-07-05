@@ -2,10 +2,10 @@
 from langchain_community.vectorstores import PGVector
 from langchain_ollama import OllamaEmbeddings
 from langchain.chains import RetrievalQA
-from langchain_community.llms import Ollama
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import DataFrameLoader
 from sqlalchemy import create_engine
+from langchain_ollama import OllamaLLM
 import pandas as pd
 
 engine = create_engine("postgresql+psycopg2://hiral:123@localhost:5432/job_scrape")
@@ -31,7 +31,7 @@ vectorstore = PGVector.from_documents(
 )
 
 retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
-llm = Ollama(model="llama3") 
+llm = OllamaLLM(model="llama3")
 qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
 
 
