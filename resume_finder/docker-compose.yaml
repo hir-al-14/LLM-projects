@@ -5,8 +5,8 @@ services:
     image: ankane/pgvector
     container_name: pgvector-db
     environment:
-      POSTGRES_USER: hiral
-      POSTGRES_PASSWORD: 123
+      POSTGRES_USER: 
+      POSTGRES_PASSWORD: 
       POSTGRES_DB: resume_finder
     ports:
       - "5432:5432"
