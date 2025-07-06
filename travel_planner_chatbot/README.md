@@ -8,5 +8,5 @@
 5. **SEMANTIC RETRIEVAL-** Travel contant is loaded from the database and chunked using LangChain's RecursiveCharacterTextSplitter.
 6. **QA Chain-** Used LangChain’s RetrievalQA combining Llama3 LLM and PGVector retriever for answering natural language queries.
 
-<span style="color:red">Here is an example with query- Plan a 3 day trip to Paris.</span>
+Here is an example with query- Plan a 3 day trip to Paris.
 ![Image Alt Text](Example.png)
