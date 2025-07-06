@@ -9,4 +9,5 @@
 6. **QA Chain-** Used LangChain’s RetrievalQA combining Llama3 LLM and PGVector retriever for answering natural language queries.
 
 <span style="color: red;">Here is an example with query- Plan a 3 day trip to Paris.</span>
+<span style="color🩷">Here is an example with query- Plan a 3 day trip to Paris.</span>
 ![Image Alt Text](Example.png)
